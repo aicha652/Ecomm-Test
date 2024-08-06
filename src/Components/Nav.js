@@ -9,9 +9,11 @@ export default function Nav() {
   return (
     <div className='sidebar'>
         <TiShoppingCart className='icon'/>
-        <Category />
-        <Price />
-        <Color />
+        <div className='elements'>
+            <Category />
+            <Price />
+            <Color />
+        </div>
     </div>
   )
 }

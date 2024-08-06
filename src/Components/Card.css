@@ -1,0 +1,42 @@
+.frame {
+    margin-left: 300px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-img {
+    border: 3px solid #eee;
+    width: 250px;
+    height: 300px;
+    margin: 20px;
+}
+
+.container-img img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 20px;
+}
+
+.img-title {
+    margin-left: 20px;
+}
+
+.stars-item {
+    margin-left: 20px;
+    color: rgb(167, 147, 58);
+}
+
+.reviews {
+    color: black;
+    margin-left: 90px;
+    margin-top: -24px;
+}
+
+.price {
+    margin-left: 50px;
+    font-size: 17px;
+}
+
+.bag {
+    margin-left: 50px;
+}
