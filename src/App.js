@@ -5,6 +5,7 @@ import Nav from './Components/Nav';
 import Recommended from './Components/Recommended';
 
 function App() {
+  
   return (
     <div className="App">
       <Header />
