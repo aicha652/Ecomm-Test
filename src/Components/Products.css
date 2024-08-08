@@ -1,0 +1,6 @@
+.frame {
+    margin-left: 300px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}

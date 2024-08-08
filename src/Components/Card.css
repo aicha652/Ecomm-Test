@@ -1,9 +1,4 @@
-.frame {
-    margin-left: 300px;
-    margin-top: 20px;
-    display: flex;
-    flex-wrap: wrap;
-}
+
 .container-img {
     border: 3px solid #eee;
     width: 250px;
